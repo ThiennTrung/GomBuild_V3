@@ -6,8 +6,7 @@ Công cụ hỗ trợ gom build & commit dự án SVN.
 
 ## 1. Setup
 
-- Download folder:
-  👉 /GomBuild_V3/bin/Release
+- Download folder: 👉 👉 [Download folder](/GomBuild_V3/bin/Release)
 - Chạy file `GomBuild_V3.exe` để chạy
 
 ---
