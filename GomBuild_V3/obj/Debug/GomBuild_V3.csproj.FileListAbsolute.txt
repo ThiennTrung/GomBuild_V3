@@ -38,3 +38,4 @@ C:\Users\TrungVT21\Desktop\GomBuild_V3\GomBuild_V3\bin\Debug\GomBuild_V3.exe.man
 C:\Users\TrungVT21\Desktop\GomBuild_V3\GomBuild_V3\bin\Debug\GomBuild_V3.application
 C:\Users\TrungVT21\Desktop\GomBuild_V3\GomBuild_V3\obj\Debug\GomBuild_V3.exe.manifest
 C:\Users\TrungVT21\Desktop\GomBuild_V3\GomBuild_V3\obj\Debug\GomBuild_V3.application
+C:\Users\TrungVT21\Desktop\GomBuild_V3\GomBuild_V3\obj\Debug\GomBuild_V3.TrustInfo.xml
