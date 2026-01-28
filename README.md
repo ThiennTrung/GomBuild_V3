@@ -6,9 +6,9 @@ Công cụ hỗ trợ gom build & commit dự án SVN.
 
 ## 1. Setup
 
-- Download bộ cài tại:
-  👉 /main/GomBuild_V3/publish
-- Chạy file `setup.exe` để cài đặt
+- Download folder:
+  👉 /GomBuild_V3/bin/Release
+- Chạy file `GomBuild_V3.exe` để chạy
 
 ---
 
@@ -16,11 +16,8 @@ Công cụ hỗ trợ gom build & commit dự án SVN.
 
 Sau khi cài đặt xong:
 
-1. Mở **Task Manager**
-2. Tìm tiến trình **GomBuild_V3**
-3. Chuột phải → **Open file location**
-4. Mở file `GomBuild_V3.exe.config` để chỉnh sửa
-
+- Mở file `GomBuild_V3.exe.config` để chỉnh sửa
+  
 ---
 
 ## 3. Cấu hình quan trọng
