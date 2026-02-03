@@ -4,6 +4,8 @@ Công cụ hỗ trợ gom build & commit dự án SVN.
 
 ---
 
+<img width="1201" height="887" alt="image" src="https://github.com/user-attachments/assets/657c13f3-c493-4720-9c63-ab2ad0c03087" />
+
 ## 1. Setup
 
 - Download folder: 👉 👉 [Download folder](/GomBuild_V3/bin/Release)
