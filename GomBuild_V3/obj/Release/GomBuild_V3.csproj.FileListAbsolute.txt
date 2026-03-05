@@ -38,3 +38,4 @@ C:\Users\TrungVT21\Desktop\GomBuild_V3\GomBuild_V3\obj\Release\GomBuild_V3.appli
 C:\Users\TrungVT21\Desktop\GomBuild_V3\GomBuild_V3\obj\Release\GomBuild_V3.csproj.CopyComplete
 C:\Users\TrungVT21\Desktop\GomBuild_V3\GomBuild_V3\obj\Release\GomBuild_V3.exe
 C:\Users\TrungVT21\Desktop\GomBuild_V3\GomBuild_V3\obj\Release\GomBuild_V3.pdb
+C:\Users\TrungVT21\Desktop\GomBuild_V3\GomBuild_V3\obj\Release\GomBuild_V3.csproj.AssemblyReference.cache

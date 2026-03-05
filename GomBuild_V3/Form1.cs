@@ -280,7 +280,7 @@ namespace GomBuild_V3
                 }
 
                 // Commit SVN
-                HelperCommon.CommitSVN(textBox1.Text, mess.ToString());
+                //HelperCommon.CommitSVN(textBox1.Text, mess.ToString());
 
 
                 var formRes = MessageBox.Show(mess.ToString(), "Xong rồi đó (OK = copy text)");

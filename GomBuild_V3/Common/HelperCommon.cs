@@ -66,11 +66,11 @@ namespace GomBuild_V3.Common
         public static DupFile CheckTrungfile(FileInfo oFileInfo, string extend, string project, string WorkingCopy, string BuildVersion)
         {
             DupFile dupf = new DupFile();
-            string FormFolder = Path.Combine(WorkingCopy, project, BuildVersion, "1.FORM");
-            string ReportFolder = Path.Combine(WorkingCopy, project, BuildVersion, "2.REPORT");
-            string StoredFolder = Path.Combine(WorkingCopy, project, BuildVersion, "3.SQL", "STORED");
-            string StoredNonreportFolder = Path.Combine(WorkingCopy, project, BuildVersion, "3.SQL", "STOREDNonREPORT");
-            string OtherFolder = Path.Combine(WorkingCopy, project, BuildVersion, "3.SQL");
+            string FormFolder = Path.Combine(WorkingCopy, BuildVersion, "1.FORM");
+            string ReportFolder = Path.Combine(WorkingCopy, BuildVersion, "2.REPORT");
+            string StoredFolder = Path.Combine(WorkingCopy, BuildVersion, "3.SQL", "STORED");
+            string StoredNonreportFolder = Path.Combine(WorkingCopy, BuildVersion, "3.SQL", "STOREDNonREPORT");
+            string OtherFolder = Path.Combine(WorkingCopy, BuildVersion, "3.SQL");
 
 
 
